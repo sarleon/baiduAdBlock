@@ -1,7 +1,6 @@
 /**
  * Created by sarleon on 16-9-18.
  */
-
 function block_baidu_ad() {
     var result_list = document.getElementById("content_left");
     var answer_list1 = document.getElementsByClassName("result");
@@ -27,7 +26,9 @@ function block_baidu_ad() {
 }
 function block_google_ad(){
 
+
 }
 block_baidu_ad();
 window.location.reload();
+
 
